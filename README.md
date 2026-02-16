@@ -19,12 +19,12 @@ Welcome to the **Algonive Internship Projects** repository — a curated collect
 
 ## 📊 Key Learning Outcomes
 
-✔ Data preprocessing and cleaning
-✔ Exploratory Data Analysis (EDA)
-✔ Writing optimized SQL queries
-✔ Building interactive dashboards
-✔ Generating actionable business insights
-✔ Improving problem-solving and analytical skills
+- ✔ Data preprocessing and cleaning  
+- ✔ Exploratory Data Analysis (EDA)  
+- ✔ Writing optimized SQL queries  
+- ✔ Building interactive dashboards  
+- ✔ Generating actionable business insights  
+- ✔ Improving problem-solving and analytical skills  
 
 ---
 
