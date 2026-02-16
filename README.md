@@ -1,4 +1,4 @@
-# 📌 Algonive Internship Projects
+# 📌 Algonive Internship
 
 Welcome to the **Algonive Internship Projects** repository — a curated collection of assignments, tasks, and work completed during my internship with **Algonive**.
 
