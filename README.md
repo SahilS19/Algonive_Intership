@@ -1,6 +1,6 @@
-# 📌 Algonive Internship
+# 📌 Data Analytics Internship
 
-Welcome to the **Algonive Internship Projects** repository — a curated collection of assignments, tasks, and work completed during my internship with **Algonive**.
+Welcome to the **Data Analytics Internship Projects** repository — a curated collection of assignments, tasks, and work completed during my internship with **Algonive**.
 
 ---
 
